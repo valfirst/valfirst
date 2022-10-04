@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Valery Yatsynovich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valfirst)](https://github.com/valfirst)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=valfirst&column=4&margin-w=16&margin-h=8)](https://github.com/valfirst)
+
+![](https://hit.yhype.me/github/profile?user_id=5081226)
