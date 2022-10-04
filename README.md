@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=valfirst&column=4&margin-w=16&margin-h=8)](https://github.com/valfirst)
 
-![](https://komarev.com/ghpvc/?username=valfirst&style=for-the-badge)
+[![](https://komarev.com/ghpvc/?username=valfirst&style=for-the-badge)](https://github.com/valfirst)
 
 ![](https://hit.yhype.me/github/profile?user_id=5081226)
